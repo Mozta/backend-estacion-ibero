@@ -1,3 +1,11 @@
-paho-mqtt
-certifi
-python-dotenv
+# MQTT
+paho-mqtt==2.1.0
+certifi==2024.8.30
+
+# Environment
+python-dotenv==1.0.1
+
+# API
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
